@@ -1,0 +1,60 @@
+#fancybox-thumbs {
+	position: fixed;
+	left: 0;
+	width: 100%;
+	overflow: hidden;
+	z-index: 8050;
+	padding-right: 17px;
+}
+
+#fancybox-thumbs.bottom {
+	bottom: 15px;
+}
+
+#fancybox-thumbs.top {
+	top: 2px;
+}
+
+#fancybox-thumbs ul {
+	position: static;
+	list-style: none;
+	margin: 0 auto;
+	padding: 0;
+	display: table;
+	width: auto !important;
+}
+
+#fancybox-thumbs ul li {
+	float: left;
+	padding: 0;
+	margin: 1px 8px;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+#fancybox-thumbs ul li.active {
+	padding: 0;
+	opacity: 0.5;
+}
+
+#fancybox-thumbs ul li a {
+	display: block;
+	position: relative;
+	overflow: hidden;
+	background: #111;
+	outline: none;
+}
+
+#fancybox-thumbs ul li img {
+	display: block;
+	position: relative;
+	border: 0;
+	padding: 0;
+	max-width: none;
+}
+
+#fancybox-thumbs ul:after {
+	content: "";
+	display: table;
+	clear: both;
+}

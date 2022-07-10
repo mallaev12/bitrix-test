@@ -1,0 +1,36 @@
+2022-07-05 18:50:56 -  - exec CUpdateClientPartner::__CollectRequestData
+2022-07-05 18:50:56 -  - exec CUpdateClientPartner::GetHTTPPage
+2022-07-05 18:50:56 -  - exec CUpdateClientPartner::ParseServerData
+2022-07-05 18:50:56 -  - exec CUpdateClientPartner::GetUpdatesList
+2022-07-05 18:50:56 -  - exec CUpdateClientPartner::__CollectRequestData
+2022-07-05 18:50:56 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.4.21&NGINX=Y&dbv=8.0.24&instm=main%2C22.0.300%2CY%3Bb24connector%2C21.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrixcloud%2C22.0.0%2CN%3Bclouds%2C22.0.0%2CN%3Bfileman%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Biblock%2C21.800.300%2CN%3Blanding%2C21.1300.200%2CN%3Bmessageservice%2C22.200.100%2CN%3Bperfmon%2C21.0.0%2CN%3Brest%2C22.0.100%2CN%3Bsearch%2C22.0.0%2CN%3Bseo%2C22.0.200%2CN%3Bsocialservices%2C22.0.250%2CN%3Btranslate%2C21.100.0%2CN%3Bui%2C22.400.50%2CN&reqm=bitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2022-07-05 18:50:56 -  - exec CUpdateClientPartner::GetHTTPPage
+2022-07-05 18:50:56 -  - TIME GetUpdatesList(request) 0.199 sec
+2022-07-05 18:50:56 -  - exec CUpdateClientPartner::ParseServerData
+2022-07-05 18:50:56 -  - exec CUpdateClientPartner::__CollectRequestData
+2022-07-05 18:50:56 -  - exec CUpdateClientPartner::GetHTTPPage
+2022-07-05 18:50:57 -  - exec CUpdateClientPartner::ParseServerData
+2022-07-09 09:14:48 -  - exec CUpdateClientPartner::__CollectRequestData
+2022-07-09 09:14:48 -  - exec CUpdateClientPartner::GetHTTPPage
+2022-07-09 09:14:49 -  - exec CUpdateClientPartner::ParseServerData
+2022-07-09 09:14:49 -  - exec CUpdateClientPartner::GetUpdatesList
+2022-07-09 09:14:49 -  - exec CUpdateClientPartner::__CollectRequestData
+2022-07-09 09:14:49 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.4.21&NGINX=Y&dbv=8.0.24&instm=main%2C22.0.300%2CY%3Bb24connector%2C21.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrixcloud%2C22.0.0%2CN%3Bclouds%2C22.0.0%2CN%3Bfileman%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Biblock%2C21.800.300%2CN%3Blanding%2C21.1300.200%2CN%3Bmessageservice%2C22.200.100%2CN%3Bperfmon%2C21.0.0%2CN%3Brest%2C22.0.100%2CN%3Bsearch%2C22.0.0%2CN%3Bseo%2C22.0.200%2CN%3Bsocialservices%2C22.0.250%2CN%3Btranslate%2C21.100.0%2CN%3Bui%2C22.400.50%2CN&reqm=bitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2022-07-09 09:14:49 -  - exec CUpdateClientPartner::GetHTTPPage
+2022-07-09 09:14:51 -  - TIME GetUpdatesList(request) 2.267 sec
+2022-07-09 09:14:51 -  - exec CUpdateClientPartner::ParseServerData
+2022-07-09 09:14:51 -  - exec CUpdateClientPartner::__CollectRequestData
+2022-07-09 09:14:51 -  - exec CUpdateClientPartner::GetHTTPPage
+2022-07-09 09:14:51 -  - exec CUpdateClientPartner::ParseServerData
+2022-07-10 09:33:12 -  - exec CUpdateClientPartner::__CollectRequestData
+2022-07-10 09:33:12 -  - exec CUpdateClientPartner::GetHTTPPage
+2022-07-10 09:33:12 -  - exec CUpdateClientPartner::ParseServerData
+2022-07-10 09:33:12 -  - exec CUpdateClientPartner::GetUpdatesList
+2022-07-10 09:33:12 -  - exec CUpdateClientPartner::__CollectRequestData
+2022-07-10 09:33:12 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.4.21&NGINX=Y&dbv=8.0.24&instm=main%2C22.0.300%2CY%3Bb24connector%2C21.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrixcloud%2C22.0.0%2CN%3Bclouds%2C22.0.0%2CN%3Bfileman%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Biblock%2C21.800.300%2CN%3Blanding%2C21.1300.200%2CN%3Bmessageservice%2C22.200.100%2CN%3Bperfmon%2C21.0.0%2CN%3Brest%2C22.0.100%2CN%3Bsearch%2C22.0.0%2CN%3Bseo%2C22.0.200%2CN%3Bsocialservices%2C22.0.250%2CN%3Btranslate%2C21.100.0%2CN%3Bui%2C22.400.50%2CN&reqm=bitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2022-07-10 09:33:12 -  - exec CUpdateClientPartner::GetHTTPPage
+2022-07-10 09:33:12 -  - TIME GetUpdatesList(request) 0.214 sec
+2022-07-10 09:33:12 -  - exec CUpdateClientPartner::ParseServerData
+2022-07-10 09:33:12 -  - exec CUpdateClientPartner::__CollectRequestData
+2022-07-10 09:33:12 -  - exec CUpdateClientPartner::GetHTTPPage
+2022-07-10 09:33:12 -  - exec CUpdateClientPartner::ParseServerData

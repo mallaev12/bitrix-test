@@ -1,0 +1,1 @@
+<img src="\bitrix\templates\10\content\logo.png">
